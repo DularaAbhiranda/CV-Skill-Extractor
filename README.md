@@ -1,19 +1,19 @@
 # CV-Skill-Extractor
 
-## Project Overview
+## Project Overview 👨‍💻 🤖
 Briefly describe what your project does and its purpose.
 
-## Features
+## Features ✨
 - Feature 1: Description
 - Feature 2: Description
 
-## Technologies Used
+## Technologies Used 🛠️
 - Python
 - Tesseract-OCR
 - PIL
 - Matplotlib
 
-## Installation
+## Installation ⚙️
 Provide step-by-step instructions on how to get a development environment running.
 
 ### Clone the repository
@@ -22,19 +22,19 @@ git clone <URL>
 
 
 
-### Install dependencies
+### Install dependencies ⚓
 
 pip install -r requirements.txt
 
 
-## Usage
+## Usage 🔬
 Show how to use the project, include code blocks and screenshots if applicable.
 
 ## Contributing
 Encourage others to contribute to your project.
 
-## License
+## License 🔎
 Specify the license under which your project is made available.
 
-## Contact
+## Contact 🔬
 Your contact information for further engagement or queries.
